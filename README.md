@@ -1,4 +1,4 @@
 # studentdemo
 This is my first repo.
 <br>
-author: shivangi lathiya
+author: shivangi lathiya(student)
